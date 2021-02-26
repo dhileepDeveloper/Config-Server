@@ -20,8 +20,7 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
-server:
-  port: 8081
+
 
 
 
@@ -36,8 +35,7 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
-server:
-  port: 8082
+
 
 
   
