@@ -7,8 +7,7 @@ eureka:
 ---
 spring:
  profiles: eureka1
- application:
-  name: eureka1
+
 
 eureka:
  instance:
@@ -25,8 +24,7 @@ other:
 ---
 spring:
   profiles: eureka2
-  application:
-   name: eureka2
+
 
 server:
  port: 8762
