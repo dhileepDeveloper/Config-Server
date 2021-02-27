@@ -4,8 +4,8 @@ eureka:
      defaultZone: http://${other.eureka.hostname}:${other.eureka.port}/eureka
   server:
     enable-self-preservation: false
- instance:
-  hostname: localhost
+  instance:
+    hostname: localhost
 
 server:
  port: 8761
