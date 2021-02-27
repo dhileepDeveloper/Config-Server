@@ -4,10 +4,6 @@ eureka:
      defaultZone: http://${other.eureka.hostname}:${other.eureka.port}/eureka
   server:
     enable-self-preservation: false
-
-
-
-eureka:
  instance:
   hostname: localhost
 
