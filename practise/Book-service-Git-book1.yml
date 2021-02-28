@@ -6,7 +6,7 @@ eureka:
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/microDb
-    username:  '{cipher}f46b8d65768fe429c311dae0155e70643f76172a8e6b7d33577a2e61feea2aa1'
+    username:  '{cipher}f46b8d65768fe429c311dae0155e70643f76172a8e6b7d3'
   jpa:
     hibernate:
       ddl-auto: update
