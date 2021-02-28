@@ -7,7 +7,7 @@ spring:
   datasource:
     password: ''
     url: jdbc:mysql://localhost:3306/microDb
-    username: root
+    username: {cipher}49c3bf6a59cbacaea2556fe0ed739b61fae315e4dc8c9b0a95d8b7200d914406
   jpa:
     hibernate:
       ddl-auto: update
